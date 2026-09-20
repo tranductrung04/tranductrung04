@@ -1,5 +1,5 @@
 ### Hi, I'm Trung! 👋
-I am a Software Engineer Intern with a strong interest in web and mobile development. I have experience working with Java
+I am a Software Engineer with a strong interest in web and mobile development. I have experience working with Java
 Spring Boot and modern web technologies. My goal is to enhance my technical skills, gain hands-on experience, and learn from
 real-world challenges in a professional tech environment.
 
